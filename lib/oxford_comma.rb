@@ -1,4 +1,8 @@
 def oxford_comma(array)
 case array.length
-when 
+when 1
+end
+  when 2
+    when 3
+    else
 end
